@@ -1,0 +1,7 @@
+Commande 001
+15/12/2021 | 19:18
+1. BigMac x1
+2. McChicken x2
+
+Facture: 12.00 Euros
+
